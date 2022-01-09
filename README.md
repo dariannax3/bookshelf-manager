@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # bookshelf-manager
 
 > bookshelf-manager
@@ -22,4 +21,3 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 =======
 # bookshelf-manager
->>>>>>> 7cecdb2e76a74692d7895a45ce8442f3c25f942b
